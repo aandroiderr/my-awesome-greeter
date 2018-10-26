@@ -1,0 +1,28 @@
+{
+  "name": "my-awesome-greeter",
+  "version": "1.0.0",
+  "description": "this is the description",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aandroiderr/my-awesome-greeter.git"
+  },
+  "keywords": [],
+  "author": "KietLe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aandroiderr/my-awesome-greeter/issues"
+  },
+  "homepage": "https://github.com/aandroiderr/my-awesome-greeter#readme",
+  "devDependencies": {
+    "prettier": "^1.14.3",
+    "tslint": "^5.11.0",
+    "tslint-config-prettier": "^1.15.0",
+    "typescript": "^3.1.3"
+  }
+}
