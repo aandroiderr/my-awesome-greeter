@@ -1,9 +1,9 @@
 {
   "name": "@kietle2016/my-awesome-greeter",
-  "version": "1.0.0",
-  "description": "this is the description",
-  "main": "",
-  "types": "index.d.ts",
+  "version": "1.0.6",
+  "description": "TypeScript definitions for SmartFoxServer Apis",
+  "main": "src/sfs2x-api-1.7.11.js",
+  "types": "src/sfs2x-api-1.7.11.d.ts",
   "scripts": {},
   "repository": {
     "type": "git",
